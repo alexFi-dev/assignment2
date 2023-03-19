@@ -1,0 +1,26 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Binance bootcamp Assigment #2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexFi-dev/assignment2.git"
+  },
+  "author": "alexFi.dev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexFi-dev/assignment2/issues"
+  },
+  "homepage": "https://github.com/alexFi-dev/assignment2#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
